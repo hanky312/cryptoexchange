@@ -29,8 +29,6 @@
     :target: TWD
   - :base: RPC
     :target: TWD
-  - :base: RPC
-    :target: TWD
   - :base: XEM
     :target: TWD
   - :base: BTC
@@ -57,6 +55,12 @@
     :target: BTC
   - :base: XEM
     :target: BTC
+  - :base: LTC
+    :target: ETH
+  - :base: BCH
+    :target: ETH
+  - :base: BTG
+    :target: ETH
   - :base: BITO
     :target: ETH
   - :base: PANDA
@@ -64,12 +68,6 @@
   - :base: QNTU
     :target: ETH
   - :base: NPXS
-    :target: ETH
-  - :base: LTC
-    :target: ETH
-  - :base: BCH
-    :target: ETH
-  - :base: BTG
     :target: ETH
   - :base: RPC
     :target: ETH
